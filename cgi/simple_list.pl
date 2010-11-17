@@ -17,7 +17,7 @@ use strict;
 use warnings;
 use CGI;
 use CGI::Carp qw(fatalsToBrowser);
-use File::Find::Rule
+use File::Find::Rule;
 
 my $q = CGI->new();
 
@@ -25,7 +25,7 @@ print $q->header(), $q->start_html() . qq(\n);
 
 my $find = File::Find::Rule->file()->name('*.txt');
 # print all of the files in the ru-en subdirectory that end with .txt
-print $q->ul($q->li({}, $find->in(q(../ru-en))) );
+print $q->ul($q->li({}, [$find->in(q(../ru-en))] ) );
 print $q->end_html();
 
 exit 0;
