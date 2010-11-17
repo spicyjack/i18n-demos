@@ -29,7 +29,7 @@
 завтракать,позавтракать,to breakfast, have breakfast
 обедать,пообедать,to lunch, have the midday meal
 ужинать,поужинать,to have supper
-ждать,,to wait
+ждать,подожать,to wait
 приглашать,пригласить,to invite
 # from 03Май, all can be used with dative case
 дарить,подарить,to give (as a gift)
@@ -43,4 +43,11 @@
 заказывать,заказать,to order
 говорить,сказать,to speak, talk
 # from 24Май, accusitive case
-посылать,послать, to send, mail
+посылать,послать,to send, mail
+# from the book "Russian Language in Exercises"
+думать,подумать,to think
+спрашивать,спросить,to ask, inquire
+рассказывать,рассказать,to recount, tell, narrate
+помнить,,to remember
+вспоминать,вспомнить,to remember, recall, recollect
+мечтать,помечтать,to daydream, dream
