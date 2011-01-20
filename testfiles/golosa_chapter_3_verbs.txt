@@ -1,7 +1,7 @@
-говорить|to speak, to say
-жить|to live
-знать|to know
-изучать|to study (something, needs a subject)
-писать|to write
-понимать|to understand
-читать|to read
+говорить|говорИть; to speak, to say 
+жить|жИть; to live
+знать|знАть; to know
+изучать|изучАть; to study (something, needs a subject)
+писать|писАть; to write
+понимать|понимАть; to understand
+читать|читАть; to read
