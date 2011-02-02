@@ -1,18 +1,19 @@
-морозно|frosty
-вемер|wind
-вемерно|windy
-каток|skating rink
-снегурочка|snow maiden
-пасморно|overcast
-туман|fog
-туманно|foggy
-шлиопки|flip-flops
-нужно|must
-надо|must
-можно|possible (uses dative)
-нельзя|not possible
-облако|cloud
-облачно|cloudy
-солнце|sun
-солнечно|sunny
-гроза|thunderstorm
+прохладно|прохлАдно; cool
+морозно|морозно; frosty
+ветер|вЕтер; wind
+ветерно|вЕтерно; windy
+каток|катОк; skating rink
+снегурочка|снегурочка; snow maiden
+пасморно|пАсморно; overcast
+тумАн|тумАн; fog
+тумАнно|тумАнно; foggy
+шлиопки|шлиопки; flip-flops
+нужно|нУжно; must
+надо|нАдо; must
+можно|мОжно; possible (uses dative)
+нельзя|нельзЯ; impossible; not possible
+облако|Облако; cloud
+облачно|Облачно; cloudy
+солнце|сОлнце; sun
+солнечно|сОлнечно|sunny (adverb)
+гроза|грозA; thunderstorm
