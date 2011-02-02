@@ -1,0 +1,18 @@
+морозно|frosty
+вемер|wind
+вемерно|windy
+каток|skating rink
+снегурочка|snow maiden
+пасморно|overcast
+туман|fog
+туманно|foggy
+шлиопки|flip-flops
+нужно|must
+надо|must
+можно|possible (uses dative)
+нельзя|not possible
+облако|cloud
+облачно|cloudy
+солнце|sun
+солнечно|sunny
+гроза|thunderstorm
