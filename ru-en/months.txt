@@ -1,0 +1,12 @@
+January,янвАрь
+February,феврАль
+March,мАрт
+April,апрЕль
+May,мАй
+June,иЮнь
+July,иЮль
+August,Августь
+September,сентЯбрь
+October,октЯбрь
+November,ноЯбрь
+December,декAбрь

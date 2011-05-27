@@ -1,0 +1,7 @@
+left,лЕвый
+right,прЯмо
+up,ввЕрх
+down,внИз
+near,блИзко
+far,далекО
+near/not far,недалекО
