@@ -1,0 +1,6 @@
+покупать|купить|to buy (missed conjugation)
+помнить||to remember (missed conjugation)
+понимать|понять|to understand
+смотреть|посмотреть|to watch (missed conjugation)
+посылать|послать|to send (mail)
+ставить|поставить|to stand, put upright
