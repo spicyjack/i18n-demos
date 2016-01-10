@@ -1,0 +1,12 @@
+Russian;English,"Part of Speech",Plural,Gender,Notes
+вОзле,"by, near, close by",preposition,,,"adv: nearby; чего/кого"
+волнА,wave,noun,волнЫ,f
+очАг,"hearth, hotbed, epicenter",noun,очАги,m
+поберЕжье,"coast, shore",noun,поберЕжья,n
+ранЕние,wound,noun,ранЕния,n
+рАненый,wounded,adj,"in plural: 'the injured'/'the wounded'"
+стихИя,"wild nature",noun,стихии,f
+угрОза,threat,noun,угрОзы,f
+ущЕрб,damage,noun,ущЕрбы
+эвакуAция,evacuation,noun,эвакуAция,f
+эпицЕнтр,epicenter,noun,эпицЕнтры,m

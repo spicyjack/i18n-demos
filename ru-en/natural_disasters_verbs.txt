@@ -1,0 +1,11 @@
+Russian,English,Type/Aspect,Notes
+везЁт,"lucky (verb)","perf","кому/чему;from везти;impf of повезти"
+наносИть,"to inflict damage","impf","impf of нанести"
+обрУшиться,"to collapse, fall upon, to hit","perf","perf of обрУшиваться"
+повезЁт,"(was/will be) lucky (verb)","impf","кому/чему;from повезти;perf of везти"
+повезлО,"(were) lucky (verb)","impf","кому/чему;from повезти;perf of везти"
+произходИть,"to happen, occur, take place","impf","impf of произойтИ"
+произойтИ,"to happen, occur, take place","perf","perf of произходИть"
+разрушАть,"to break down/disrupt","impf","impf of разрУшить" 
+угрожАть,"to threaten","impf","кому/чему;no perf"
+эвакуИровать,"to evacuate","impf and perf","impf and perf"
