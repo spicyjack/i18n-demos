@@ -1,14 +1,14 @@
-безопАсность,safety, security
+безопАсность,safety, security (fem.)
 боевИк, (here) rebel, insurgent, militant
 брать/взять на себя отвЕтственность, to claim responsibility
 взрЫв, explosion
 взрывнОе устрОйство, explosive device, blasting device
-воздЕрживаться/воздержАться, to refrain (from)
+воздЕрживаться/воздержАться, to refrain (from) (от - gen.)
 вЫнужденный, forced
-гремЕть/погремЕть, to thunder
+гремЕть/прогремЕть, to thunder
 дивЕрсия, sabotage
-дозаправка, refueling
-задЕрживать/задержАть, to detain
+дозапрАвка, refueling
+задЕрживать/задержАть, to detain (кого/что? - acc.)
 залОжник, hostage
 зарЯд, charge
 заставлЯть/застАвить, to make, force
@@ -18,19 +18,19 @@
 истОчник, source
 мОщный, powerful
 обезврЕживать/обезврЕдить, to render harmless
-обеспЕчивать/обеспечить, to provide
+обеспЕчивать/обеспЕчить, to provide
 обеспЕченный, well-to-do
 ожОг, burn
 отпускАть/отпустИть, to release
 плАмя, flame
 подозревАть, to suspect
-подозрИтельно, suspected (?)
-подозрИтельный, suspected (?)
+подозрИтельно, suspiciously
+подозрИтельный, suspicious
 подозревАемый, suspect
-покушение, attempt upon somebody's life
+покушение, attempt upon somebody's life (на кого/что? - acc.)
 правоохранИтельные Органы, law enforcement agencies
-предупреждАть/предупредить, to warn
-предупреждЕние, warning (?)
+предупреждАть/предупредИть, to warn
+предупреждЕние, warning
 преслЕдовать, to pursue
 признавАть/признАть, to admit, acknowledge
 признавАться/признАться, to confess
