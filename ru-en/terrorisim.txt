@@ -33,39 +33,41 @@
 предупреждЕние, warning
 преслЕдовать, to pursue
 признавАть/признАть, to admit, acknowledge
+признание, recognition, admission (of guilt)
 признавАться/признАться, to confess
 причинЯть/причинИть ущерб, to cause damage
 происшЕствие, incident
 инцидЕнт, incident
 расслЕдование, investigation
+расслЕдовать, to investigate (impf and perf)
 рванУть, to explode
-реанимАтция, intensive care
-розыск, search
+реанимАция, intensive care
+рОзыск, search
 скончАться, to pass away
-следствие, investigation
+слЕдствие, investigation
 спецнАз (отряды специального назначения), special forces
 трЕбование, demand
-трЕбобать/потрЕбобать, to demand
-угонЯть/угнАть, to hijack
+трЕбовать/потрЕбовать, to demand
+угонЯть/угнАть, to hijack (carjack)
 угОнщик, hijacker
-удавАться/удАнться, to work well, to be a success
-удАра,success
+удавАться/удАться, to work well, to be a success
+удАча,success
 удовлетворЯть/удовлетворИть, to meet, to satisfy
 угрожАть, to threaten
 угрОза, threat
-вЫдать, to extradite
+вЫдавать/вЫдать, to extradite, to give away/betray (a secret)
 зАговор, plot
-заговОрник, plotter
+заговОрщик, conspirator, plotter
 стрелЯть в упор, to shoot point-blank
-взрывать/взорвать, to blow up
-(авто)заправка/бензоколонка,gas station
+взрывАть/взорвАть, to blow up
+(авто)запрАвка/бензоколОнка,gas station
 несчастный случай, accident
 рАнен(ный), injured
 орУжие, arms
 вооружЕние, arms/armament
 вооружАть/вооружИть(ся), to arm; to equip
 вооружённый, armed
-бинА, guilt/blame
-биновАт(-а, -ы), blames (?)
-биновный, guilty
-биновник, culprit
+винА, guilt/blame
+виновАт(-а, -ы), blames (?)
+виновный, guilty
+виновник, culprit
