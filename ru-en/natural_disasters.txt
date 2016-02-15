@@ -10,3 +10,4 @@ Russian;English,"Part of Speech",Plural,Gender,Notes
 ущЕрб,damage,noun,ущЕрбы
 эвакуAция,evacuation,noun,эвакуAция,f
 эпицЕнтр,epicenter,noun,эпицЕнтры,m
+пострадАвш(ий|ая|его|ей),victim,past participle of пострадАть
